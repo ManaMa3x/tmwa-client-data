@@ -2,27 +2,27 @@
 <colors>
   <list name="hair">
     <!-- 0~14  Talponian colors -->
-    <color id="0" value="#8c4b41,da9041,ffffff" name="light brown"/>
-    <color id="1" value="#06372b,489e25,fdedcc" name="green"/>
-    <color id="2" value="#5f0b33,91191c,f9ad81" name="red"/>
-    <color id="3" value="#602486,934cc3,fdc689" name="purple"/>
-    <color id="4" value="#805e74,c6b09b,ffffff" name="gray"/>
-    <color id="5" value="#8c6625,dab425,ffffff" name="yellow"/>
-    <color id="6" value="#1d2d6d,1594a3,fdedcc" name="blue"/>
-    <color id="7" value="#831f2d,be4f2d,f8cc8b" name="light red"/>
-    <color id="8" value="#432482,584bbc,dae8e5" name="light blue"/>
-    <color id="9" value="#460850,611967,e7b4ae" name="dark purple"/>
-    <color id="10" value="#000000,202020,404040,dddddd" name="black"/>
-    <color id="11" value="#5e0034,a30059,fe7fc4,febfe1,ffffff" name="pink"/>
-    <color id="12" value="#2d1407,4d2809,785128,a66f3b,c4966e" name="brown"/>
+    <color id="0" value="#8c4b41,da9041,ffffff" name="Light Brown"/>
+    <color id="1" value="#06372b,489e25,fdedcc" name="Green"/>
+    <color id="2" value="#5f0b33,91191c,f9ad81" name="Red"/>
+    <color id="3" value="#602486,934cc3,fdc689" name="Purple"/>
+    <color id="4" value="#805e74,c6b09b,ffffff" name="Gray"/>
+    <color id="5" value="#8c6625,dab425,ffffff" name="Yellow"/>
+    <color id="6" value="#1d2d6d,1594a3,fdedcc" name="Blue"/>
+    <color id="7" value="#831f2d,be4f2d,f8cc8b" name="Light Red"/>
+    <color id="8" value="#432482,584bbc,dae8e5" name="Light Blue"/>
+    <color id="9" value="#460850,611967,e7b4ae" name="Dark Purple"/>
+    <color id="10" value="#000000,202020,404040,dddddd" name="Black"/>
+    <color id="11" value="#5e0034,a30059,fe7fc4,febfe1,ffffff" name="Pink"/>
+    <color id="12" value="#2d1407,4d2809,785128,a66f3b,c4966e" name="Brown"/>
     <color id="13" value="#000000" name="(free slot)"/>
     <color id="14" value="#000000" name="(free slot)"/>
     <!-- 15~29  Tritan colors -->
-    <color id="15" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#06372b,489e25,fdedcc" name="green"/>
-    <color id="16" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#1d2d6d,1594a3,fdedcc" name="blue"/>
-    <color id="17" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#432482,584bbc,dae8e5" name="light blue"/>
-    <color id="18" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#460850,611967,e7b4ae" name="dark purple"/>
-    <color id="19" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#000000,202020,404040,dddddd" name="black"/>
+    <color id="15" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#06372b,489e25,fdedcc" name="Green"/>
+    <color id="16" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#1d2d6d,1594a3,fdedcc" name="Blue"/>
+    <color id="17" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#432482,584bbc,dae8e5" name="Light Blue"/>
+    <color id="18" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#460850,611967,e7b4ae" name="Dark Purple"/>
+    <color id="19" value="#166876,32992e,23a988,70cd87,a7f1b2;#0e0036,4c264b,a04f62,d2a391,e6d7b8;#000000,202020,404040,dddddd" name="Black"/>
     <color id="20" value="#000000" name="(free slot)"/>
     <color id="21" value="#000000" name="(free slot)"/>
     <color id="22" value="#000000" name="(free slot)"/>
@@ -34,11 +34,11 @@
     <color id="28" value="#000000" name="(free slot)"/>
     <color id="29" value="#000000" name="(free slot)"/>
     <!-- 30~44  Gispaan colors -->
-    <color id="30" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#8c4b41,da9041,ffffff" name="light brown"/>
-    <color id="31" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#5f0b33,91191c,f9ad81" name="red"/>
-    <color id="32" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#805e74,c6b09b,ffffff" name="gray"/>
-    <color id="33" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#8c6625,dab425,ffffff" name="yellow"/>
-    <color id="34" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#831f2d,be4f2d,f8cc8b" name="light red"/>
+    <color id="30" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#8c4b41,da9041,ffffff" name="Light Brown"/>
+    <color id="31" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#5f0b33,91191c,f9ad81" name="Red"/>
+    <color id="32" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#805e74,c6b09b,ffffff" name="Gray"/>
+    <color id="33" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#8c6625,dab425,ffffff" name="Yellow"/>
+    <color id="34" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#831f2d,be4f2d,f8cc8b" name="Light Red"/>
     <color id="35" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#000000" name="(free slot)"/>
     <color id="36" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#000000" name="(free slot)"/>
     <color id="37" value="#5d3841,ba5f48,e48b6d,edb6a2;#2f312f,727471,a4a6a3,dad5f5;#000000" name="(free slot)"/>
